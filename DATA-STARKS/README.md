@@ -1,4 +1,5 @@
 AMERICAN SIGN LANGUAGE PREDICTION:
+![Media Player 05-04-2024 05_08_19](https://github.com/Ashis153/IEEE-Megaproject-23/assets/153770981/bf1c5e38-f21c-4a66-b4a6-732d644395cd)
 
 OVERVIEW:
 Welcome to the American Sign Language (ASL) Prediction Project! This project focuses on leveraging Convolutional Neural Networks (CNN) to predict ASL gestures using the famous MNIST dataset. The objective is to build a robust model capable of accurately interpreting hand signs represented in the images, ultimately achieving an impressive accuracy of 100%.
